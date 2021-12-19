@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kakuchrome
 
-- Study in server & and network 
-- write some python and bash in private
+- Studying server and network in japan
+- write some python and bash (usually private work)
 
 - some work done with study buddy in [ORG](https://github.com/Linux-Database)
 
