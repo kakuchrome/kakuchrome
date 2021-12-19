@@ -5,7 +5,10 @@
 
 - some work done with study buddy in [ORG](https://github.com/Linux-Database)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakuchrome)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakuchrome&count_private=true)
+
 
 
 
